@@ -1,0 +1,18 @@
+For this question you must complete the following functions: 
+
+compute_point_cloud.m
+compute_2D_projection.m
+
+You are given three directories with sample datasets which you can use for testing.
+We also provide a movie here showing the type of result you might get at the end, with a successful implementation.
+
+Begin with 'compute_point_cloud.m'. This function is relevant for the first part of question 2. When you are done with this part, one way to test your code is to plot your 3D point clouds using the {\em plot3} function or any other appropriate visualization function in Matlab.
+
+When you have successfully completed the first part proceed to work on the second function 'compute_2D_projection.m'.
+
+You may create your own functions and files here too, but please make sure not to create any new folders. For grading your assignment, our grader code will call these two functions. When you are done with these two functions, you may compress the current folder ('Q2') in '.zip' format ('Q2.zip').
+In this zip file you should also include your Matlab code, a PDF, answering other parts of this question and illustrating your results, and also movies
+that you have created showing the rotation sequences (whereas this is optional, its a good way to test your code.)
+
+Make sure that you remove any extra files or images that you have used. You also do not need to include the images that we have provided or the point clouds you have generated.
+
