@@ -1,0 +1,9 @@
+You are required to implement the Lucas Kanade construction algoirthm. You have to complete the following function:
+
+compute_LK_optical_flow.m
+
+We provide other sample code to give you an idea of functions that could be useful:
+1) testflow.m just runs demo_optical_flow over a fixed sequence of successive frames.
+2) demo_optical_flow.m runs the algorithm for a pair of successive frames and plots the result as a quiver plot for that pair.
+3) smooth_frames.m shows an example of reading in an entire sequence of images and storing it in a single bigger array, and then smoothing along the '3rd' (time) dimension. This might come in handy when you are handling longer image sequences, e.g., a sample sequence that you have created.
+
